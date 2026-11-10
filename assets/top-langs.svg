@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="205" viewBox="0 0 520 205" role="img" aria-label="Linguagens  /  Top languages">
+<rect x="1" y="1" width="518" height="203" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+<g font-family="Segoe UI, Arial, sans-serif">
+<text x="25" y="35" fill="#be95ff" font-size="19" font-weight="700">Linguagens  /  Top languages</text>
+<path d="M25 51 H495" stroke="#30363d"/>
+<text x="25" y="69" fill="#8b949e" font-size="12" font-weight="400">Distribuição do código em repositórios públicos</text>
+<text x="25" y="94" fill="#e6edf3" font-size="13" font-weight="400">TypeScript</text>
+<rect x="214" y="83" width="220" height="10" rx="5" fill="#20273a"/>
+<rect x="214" y="83" width="170.1" height="10" rx="5" fill="#3178c6"/>
+<text x="490" y="92" fill="#a9b3c2" font-size="12" font-weight="400" text-anchor="end">77.3%</text>
+<text x="25" y="119" fill="#e6edf3" font-size="13" font-weight="400">Python</text>
+<rect x="214" y="108" width="220" height="10" rx="5" fill="#20273a"/>
+<rect x="214" y="108" width="43.7" height="10" rx="5" fill="#3572A5"/>
+<text x="490" y="117" fill="#a9b3c2" font-size="12" font-weight="400" text-anchor="end">19.9%</text>
+<text x="25" y="144" fill="#e6edf3" font-size="13" font-weight="400">TeX</text>
+<rect x="214" y="133" width="220" height="10" rx="5" fill="#20273a"/>
+<rect x="214" y="133" width="3.0" height="10" rx="5" fill="#be95ff"/>
+<text x="490" y="142" fill="#a9b3c2" font-size="12" font-weight="400" text-anchor="end">1.4%</text>
+<text x="25" y="169" fill="#e6edf3" font-size="13" font-weight="400">JavaScript</text>
+<rect x="214" y="158" width="220" height="10" rx="5" fill="#20273a"/>
+<rect x="214" y="158" width="0.9" height="10" rx="5" fill="#f1e05a"/>
+<text x="490" y="167" fill="#a9b3c2" font-size="12" font-weight="400" text-anchor="end">0.4%</text>
+<text x="25" y="194" fill="#e6edf3" font-size="13" font-weight="400">Shell</text>
+<rect x="214" y="183" width="220" height="10" rx="5" fill="#20273a"/>
+<rect x="214" y="183" width="0.9" height="10" rx="5" fill="#89e051"/>
+<text x="490" y="192" fill="#a9b3c2" font-size="12" font-weight="400" text-anchor="end">0.4%</text>
+</g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="205" viewBox="0 0 520 205" role="img" aria-label="GitHub em números  /  GitHub stats">
+<rect x="1" y="1" width="518" height="203" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+<g font-family="Segoe UI, Arial, sans-serif">
+<text x="25" y="35" fill="#be95ff" font-size="19" font-weight="700">GitHub em números  /  GitHub stats</text>
+<path d="M25 51 H495" stroke="#30363d"/>
+<text x="25" y="74" fill="#8b949e" font-size="12" font-weight="400">@Dragoniana  ·  repositórios públicos / public repositories</text>
+<text x="25" y="116" fill="#e6edf3" font-size="25" font-weight="700">6</text>
+<text x="25" y="135" fill="#a9b3c2" font-size="12" font-weight="400">Repositórios / Repos</text>
+<text x="270" y="116" fill="#e6edf3" font-size="25" font-weight="700">0</text>
+<text x="270" y="135" fill="#a9b3c2" font-size="12" font-weight="400">Estrelas / Stars</text>
+<text x="25" y="179" fill="#e6edf3" font-size="25" font-weight="700">1</text>
+<text x="25" y="198" fill="#a9b3c2" font-size="12" font-weight="400">Seguidores / Followers</text>
+<text x="270" y="179" fill="#e6edf3" font-size="25" font-weight="700">0</text>
+<text x="270" y="198" fill="#a9b3c2" font-size="12" font-weight="400">Forks</text>
+</g>
+</svg>
