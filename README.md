@@ -123,14 +123,9 @@ Fontes de inspiração: https://github.com/rafaballerini/PerfilGithub
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dragoniana&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Linguagens dos repositórios públicos" />
 </div>
 
-<details>
-  <summary>🐍 Ver a animação das contribuições / View contribution snake</summary>
-  <br />
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/Dragoniana/Dragoniana/output/github-contribution-grid-snake.svg" alt="Animação de contribuições do GitHub" width="100%" />
-  </div>
-  <p><sub>Esta animação aparecerá após a execução do workflow incluído no pacote / This animation will appear after the included workflow runs.</sub></p>
-</details>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Dragoniana/Dragoniana/output/github-contribution-grid-snake.svg" alt="Animação de contribuições do GitHub / GitHub contribution snake animation" width="100%" />
+</div>
 
 ## 📬 Contato / Let's connect
 
@@ -158,3 +153,20 @@ Fontes de inspiração: https://github.com/rafaballerini/PerfilGithub
   <sub>Feito com curiosidade, código e um toque de criatividade. 💜</sub><br />
   <sub>Made with curiosity, code, and a touch of creativity. 💜</sub>
 </div>
+
+<details>
+  <summary>🖼️ Créditos das imagens decorativas / Artwork credits</summary>
+  <br />
+  <p>As artes pertencem a seus respectivos criadores. Este README utiliza os links que escolhi; antes de redistribuir arquivos, verifique as permissões dos autores. / Artwork belongs to its respective creators. Please check usage permissions before redistributing files.</p>
+  <ul>
+    <li><a href="https://pt.picmix.com/stamp/agnes-tachyon-2823280">Agnes Tachyon — fonte / source</a></li>
+    <li><a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKGBb6cuj18SF8gRT9tIBZ_A7XwFAukfPl4qL_q7Rp_w&amp;s=10">Manhattan Cafe — fonte / source</a></li>
+    <li><a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrzOS5f73_ewZwTCs43Xu8mTky3FU7NJbrF2Ac7vWYlw&amp;s=10">Rice Shower — fonte / source</a></li>
+    <li><a href="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b476dc13-7af0-48c5-8eb6-9c6f28f73099/degm1xq-1e59f2bb-ff8f-4ac7-839c-8f52803fbc25.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9iNDc2ZGMxMy03YWYwLTQ4YzUtOGViNi05YzZmMjhmNzMwOTkvZGVnbTF4cS0xZTU5ZjJiYi1mZjhmLTRhYzctODM5Yy04ZjUyODAzZmJjMjUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.XytmtJonSwvmvT0R_7As544M7_h_NZSa0uVglfISlPw">Lucario — fonte / source</a></li>
+    <li><a href="https://i.pinimg.com/originals/67/00/a5/6700a5c64d66f46ff71111d4a700b2ff.gif">Charizard — fonte / source</a></li>
+    <li><a href="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/87c1715d-ae6c-41f3-ae8f-e9df8454e398/d6f5aos-5821b82b-d526-4ac4-8ef2-3d24e91f817a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi84N2MxNzE1ZC1hZTZjLTQxZjMtYWU4Zi1lOWRmODQ1NGUzOTgvZDZmNWFvcy01ODIxYjgyYi1kNTI2LTRhYzQtOGVmMi0zZDI0ZTkxZjgxN2EuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.UQR4VZLBeS1XOM3tXj7g6Q9mwfS1-hhmirgBe0g908M">Dragonite — fonte / source</a></li>
+    <li><a href="https://viloes.fandom.com/pt-br/wiki/N_%28Murder_Drones%29">N — fonte / source</a></li>
+    <li><a href="https://ficcion-sin-limites.fandom.com/es/wiki/Uzi_Doorman">Uzi — fonte / source</a></li>
+    <li><a href="https://www.deviantart.com/godzillaxkongfnaf20/art/V-%28Murder-Drones%29-Render-1303719834">V — fonte / source</a></li>
+  </ul>
+</details>
