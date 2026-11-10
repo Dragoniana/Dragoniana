@@ -119,8 +119,8 @@ Fontes de inspiração: https://github.com/rafaballerini/PerfilGithub
 ## 📊 GitHub em números / GitHub stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dragoniana&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="Estatísticas públicas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dragoniana&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Linguagens dos repositórios públicos" />
+  <img height="205" src="https://raw.githubusercontent.com/Dragoniana/Dragoniana/main/assets/github-stats.svg" alt="Estatísticas públicas do GitHub / Public GitHub stats" />
+  <img height="205" src="https://raw.githubusercontent.com/Dragoniana/Dragoniana/main/assets/top-langs.svg" alt="Linguagens dos repositórios públicos / Languages of public repositories" />
 </div>
 
 <div align="center">
