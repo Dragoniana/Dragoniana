@@ -6,12 +6,12 @@
 <text x="25" y="69" fill="#8b949e" font-size="12" font-weight="400">Distribuição do código em repositórios públicos</text>
 <text x="25" y="94" fill="#e6edf3" font-size="13" font-weight="400">TypeScript</text>
 <rect x="214" y="83" width="220" height="10" rx="5" fill="#20273a"/>
-<rect x="214" y="83" width="170.1" height="10" rx="5" fill="#3178c6"/>
-<text x="490" y="92" fill="#a9b3c2" font-size="12" font-weight="400" text-anchor="end">77.3%</text>
+<rect x="214" y="83" width="169.8" height="10" rx="5" fill="#3178c6"/>
+<text x="490" y="92" fill="#a9b3c2" font-size="12" font-weight="400" text-anchor="end">77.2%</text>
 <text x="25" y="119" fill="#e6edf3" font-size="13" font-weight="400">Python</text>
 <rect x="214" y="108" width="220" height="10" rx="5" fill="#20273a"/>
-<rect x="214" y="108" width="43.7" height="10" rx="5" fill="#3572A5"/>
-<text x="490" y="117" fill="#a9b3c2" font-size="12" font-weight="400" text-anchor="end">19.9%</text>
+<rect x="214" y="108" width="44.0" height="10" rx="5" fill="#3572A5"/>
+<text x="490" y="117" fill="#a9b3c2" font-size="12" font-weight="400" text-anchor="end">20.0%</text>
 <text x="25" y="144" fill="#e6edf3" font-size="13" font-weight="400">TeX</text>
 <rect x="214" y="133" width="220" height="10" rx="5" fill="#20273a"/>
 <rect x="214" y="133" width="3.0" height="10" rx="5" fill="#be95ff"/>
