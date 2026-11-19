@@ -10,7 +10,7 @@
 <text x="490" y="92" fill="#a9b3c2" font-size="12" font-weight="400" text-anchor="end">71.2%</text>
 <text x="25" y="119" fill="#e6edf3" font-size="13" font-weight="400">Python</text>
 <rect x="214" y="108" width="220" height="10" rx="5" fill="#20273a"/>
-<rect x="214" y="108" width="55.7" height="10" rx="5" fill="#3572A5"/>
+<rect x="214" y="108" width="55.6" height="10" rx="5" fill="#3572A5"/>
 <text x="490" y="117" fill="#a9b3c2" font-size="12" font-weight="400" text-anchor="end">25.3%</text>
 <text x="25" y="144" fill="#e6edf3" font-size="13" font-weight="400">TeX</text>
 <rect x="214" y="133" width="220" height="10" rx="5" fill="#20273a"/>
